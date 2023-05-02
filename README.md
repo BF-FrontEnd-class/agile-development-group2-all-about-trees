@@ -1,6 +1,8 @@
-# Name of project
+# All about trees
 
-> A longer description
+> All About Trees is a website dedicated to providing information and resources
+> on the world of trees. Whether you are an arborist, a nature enthusiast, or
+> simply someone interested in learning more about these essential plants.
 
 ## Table of contents
 
