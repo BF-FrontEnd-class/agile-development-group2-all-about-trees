@@ -2,15 +2,19 @@
 
 ## Group Rules
 
+- We are going to help each team member for the project.
+- Be respectful with our team members.
+- Be open for feedback about participation in project.
+- Avoid interrupting while others are speaking.
+
 <!-- any general rules you'd like to set for your group? -->
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day | How | The topic of discussion | | Tuesday | zoom Meeting | Planning of
+all project.| | Wednesday | zoom Meeting | discuss about code.|
 
 ## Communication Channels
 
@@ -19,8 +23,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 - **Issues**:
 - **Pull Requests**:
 - **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+- **Slack**:
+- **Video Calls by zoom**:
 
 ---
 
@@ -28,17 +32,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day       | Tuesday | Wednesday |
+| --------- | :-----: | :-------: |
+| Milena    | 09 - 17 |  09 - 17  |
+| Fernando  | 09 - 17 |  09 - 17  |
+| Komal     | 09 - 17 |  09 - 17  |
+| Jean Paul | 09 - 17 |  09 - 17  |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Milena : _7h_;
+- Fernando : _7h_;
+- Komal : _7h_;
+- Jean Paul: _7h_;
 
 ## Asking for Help
 
