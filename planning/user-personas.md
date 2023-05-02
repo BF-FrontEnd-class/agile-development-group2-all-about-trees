@@ -1,28 +1,26 @@
-# User Personas
+# User Personas: Tree lover
 
 <!-- some introduction -->
 
-## ![img](../img/angelo.jpeg)
+![img](../img/angelo.jpeg)
 
 <!-- a persona -->
 
 ## Their Role
 
-- **Bio**: My name is Angelo, I am 27 years old, I am from Belgium and I love
-  photography of nature.
+- **Bio**: Angelo is 27 years old, he is from Belgium and he loves to protect
+  the nature.
 - **Quotes**: Take me to the world of the nature and let me discover all about
   trees"
-- **Needs/Goals**:
+- **Needs/Goals**: Angelo loves trees that s why he visits ,any websites to find
+  a lot of information about trees.
 
-1. Throuh photography I want to make society aware the importance of nature in
-   our life and how incomplete we are without nature.
-2. To improve the knowledge I have about trees.
+- **Frustrations**: Angello loves trees but his problem is that other website
+  are more complex for him to understand but our website is simple to
+  understand.
 
-- **Frustrations**: I hate the people who destroys the nature for just to become
-  modern society.
-
-- **Scenario 1**: One time I was looking for information on this website all
-  about trees because I wanted to capture the beauty of nature in my camera.
+- **Scenario 1**: Angelo loves nature and he visits alot of websites because he
+  likes to know more information about trees.
 
 ---
 
