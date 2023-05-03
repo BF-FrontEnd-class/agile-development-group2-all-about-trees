@@ -1,26 +1,28 @@
 body {
   background-color: rgb(27, 28, 27);
+  margin: 0;
 }
 
 /* header */
 .bottom-divider {
-  position: absolute;
-  right: 0;
-  top: 0;
-  border-bottom: 2px solid black;
-}
-
-.spaced-items {
   display: flex;
   align-content: center;
   align-items: center;
-  justify-content: end;
-  width: 60rem;
+  justify-content: space-around;
+  width: 100%;
   height: 4rem;
   box-shadow: 1px 5px 15px rgba(0, 0, 0, 0.35);
+  border-bottom: 2px solid black;
 }
 
-.spaced-items a {
+.top-divider a {
+  color: rgb(177, 255, 181);
+  text-decoration: none;
+  border-left: 1px solid rgba(197, 245, 197, 0.461);
+  border-bottom: 1px solid rgba(197, 245, 197, 0.461);
+}
+
+.bottom-divider a {
   margin-right: 13rem;
   color: rgb(177, 255, 181);
   text-decoration: none;
@@ -28,26 +30,26 @@ body {
   border-bottom: 1px solid rgba(197, 245, 197, 0.461);
 }
 
-.spaced-items a:hover {
+.bottom-divider a:hover {
   color: rgb(98, 253, 129);
+}
+
+.summary-info {
+  display: flex;
+  width: 100%;
 }
 
 /* logo */
 
 .bouncy-img {
   width: 10rem;
-  height: 7rem;
-}
-
-.bouncy-img:hover {
-  animation: bounce 1s;
+  aspect-ratio: 16/10;
 }
 
 /* title */
 
 h1 {
   margin-left: 7rem;
-  margin-top: -2rem;
   font-family: "Courier New", Courier, monospace;
   font-weight: lighter;
   font-size: 2.5rem;
@@ -57,10 +59,9 @@ h1 {
 /* pdf */
 
 .btn {
-  position: relative;
-  top: -2.5rem;
-  left: 55rem;
-  width: 20rem;
+  position: absolute;
+  right: 8rem;
+  transform: translateY(-1.5rem);
   height: 2rem;
   background-color: rgb(237, 200, 11);
   color: black;
@@ -72,27 +73,53 @@ h1 {
 
 .centered-items {
   display: flex;
-  flex-direction: row;
-  justify-content: center;
-  padding-top: 2%;
-  padding-bottom: 2%;
 }
 
 /* image */
 
 .tree-img {
-  position: absolute;
-  top: 16rem;
-  left: 10rem;
-  width: 20rem;
+  transform: translate(2rem, 1rem);
+  max-width: 20rem;
+  height: 18rem;
 }
 
 /* Description */
+
+.description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-right: 9rem;
+}
+
 .fascinating-words {
-  position: absolute;
-  top: 20rem;
-  right: 15rem;
-  width: 30rem;
+  width: min(30rem, 100%);
+  font-size: 1.2rem;
   line-height: 2rem;
   color: rgb(177, 255, 181);
+}
+
+/* Extra link  */
+.aside-info {
+  width: 40%;
+  padding-left: 0.5rem;
+  margin-left: 0.5rem;
+  float: right;
+  box-shadow: inset 5px 0 5px -5px #29627e;
+  font-style: italic;
+}
+
+.aside-text {
+  font-family: monospace;
+}
+
+/* Social media  */
+.top-divider {
+  position: fixed;
+  bottom: 0;
+  padding: 0.8rem;
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
 }

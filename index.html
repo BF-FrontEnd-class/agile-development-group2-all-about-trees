@@ -8,16 +8,14 @@
     <link href="./styles/index.css" rel="stylesheet" />
   </head>
   <body>
-    <!--logo-->
-    <img class="bouncy-img" src="./assets/tree.png" alt="a smiling tree" />
     <!--header-->
     <header class="centered-items">
+      <!--logo-->
+      <img class="bouncy-img" src="./assets/tree.png" alt="a smiling tree" />
       <nav class="bottom-divider">
-        <div class="spaced-items">
-          <a href="#summary-info">Intro</a>
-          <a href="#main-info">Content</a>
-          <a href="#extra-info">Extras</a>
-        </div>
+        <a href="#summary-info">Intro</a>
+        <a href="#main-info">Content</a>
+        <a href="#extra-info">Extras</a>
       </nav>
     </header>
 
@@ -26,16 +24,23 @@
 
     <!--pdf-->
     <button class="btn" type="submit">Download PDF about trees</button>
-    <img class="tree-img" src="./assets/tree2.png" alt="tree" />
 
     <!-- Description  -->
-    <section id="summary-info">
-      <p class="fascinating-words">
-        How do Trees Work? Well, this has been a tough question to answer.
-        <br />
-        My colleagues and I sat down last week and we spent at least 45 minutes
-        thinking about it. Still we have nothing smart to say.
-      </p>
+    <section id="summary-info" class="summary-info">
+      <img class="tree-img" src="./assets/tree2.png" alt="tree" />
+      <div class="description">
+        <p class="fascinating-words">
+          How do Trees Work? Well, this has been a tough question to answer.
+          <br />
+          My colleagues and I sat down last week and we spent at least 45
+          minutes thinking about it. Still we have nothing smart to say.
+        </p>
+      </div>
     </section>
+
+    <!-- Social media  -->
+    <footer class="top-divider">
+      <a href="#">Twitter</a> <a href="#">Github</a> <a href="#">Linkedin</a>
+    </footer>
   </body>
 </html>
