@@ -15,6 +15,17 @@ body {
   padding-bottom: 2%;
 }
 
+.btn {
+  position: relative;
+  left: 55rem;
+  width: 20rem;
+  height: 2rem;
+  background-color: rgb(237, 200, 11);
+  color: black;
+  font-size: 1.2rem;
+  border-radius: 15%;
+  box-shadow: rgba(0, 0, 0, 0.35) 1px 5px 15px;
+  cursor: pointer;
 /* logo */
 
 @keyframes bounce {
