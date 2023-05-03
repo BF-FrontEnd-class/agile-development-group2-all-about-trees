@@ -24,3 +24,7 @@ body {
 .top-divider {
   border-style: solid none none none;
 }
+
+.fascinating-words {
+  font-family: fantasy;
+}
