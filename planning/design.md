@@ -2,7 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+> This is the design of our website.
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
@@ -12,6 +12,4 @@
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Wireframe](../img/design_about_trees.png)
