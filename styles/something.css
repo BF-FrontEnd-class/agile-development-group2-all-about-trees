@@ -2,6 +2,7 @@ body {
   background-color: rgb(27, 28, 27);
 }
 
+/* header */
 .bottom-divider {
   position: absolute;
   right: 0;
@@ -43,6 +44,18 @@ body {
 }
 
 /* title */
+
+h1 {
+  margin-left: 7rem;
+  margin-top: -2rem;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: lighter;
+  font-size: 2.5rem;
+  color: rgb(177, 255, 181);
+}
+
+/* pdf */
+
 .btn {
   position: relative;
   left: 55rem;
