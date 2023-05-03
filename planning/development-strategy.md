@@ -21,21 +21,19 @@
 
 ### As a user I want to see the title of the page
 
-- This user story is developed on branch `projectDefinition, constrains, communication, userPersonas, backlog, design, strategy, retrospective, readme`.
+- This user story is developed on branch
+  `9 branches`.
 - This branch is merged to `main` branch after completion.
 
 ### html
 
 - add `header` tag
 - add `h1` for the page title
-- add `img` 
 
 ### css
 
 - add class`centered-item` to the `header`
 - make the display `flex` and add `padding`
-- add class `bouncy-img`to the `img`
-- make
 
 ## 2. Logos
 
