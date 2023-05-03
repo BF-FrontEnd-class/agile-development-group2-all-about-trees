@@ -77,3 +77,12 @@ h1 {
   padding-top: 2%;
   padding-bottom: 2%;
 }
+
+/* image */
+
+.tree-img {
+  position: absolute;
+  top: 16rem;
+  left: 10rem;
+  width: 20rem;
+}
