@@ -86,3 +86,8 @@ h1 {
   left: 10rem;
   width: 20rem;
 }
+
+/* Description */
+.fascinating-words {
+  font-family: fantasy;
+}
