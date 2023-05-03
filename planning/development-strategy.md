@@ -21,7 +21,7 @@
 
 ### As a user I want to see the title of the page
 
-- This user story is developed on branch `09-title`.
+- This user story is developed on branch `title`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -33,12 +33,13 @@
 
 - add class`centered-item` to the `header`
 - make the display `flex` and add `padding`
+- style `font`
 
 ## 2. Logo
 
 ### As a user I want to see logos of the page
 
-- This user story is developed on branch `10-logo`.
+- This user story is developed on branch `logo`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -55,7 +56,7 @@
 
 ### As a user I want to see navigation links
 
-- This user story is developed on branch `11-navLinks`.
+- This user story is developed on branch `navLinks`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -75,7 +76,7 @@
 
 ### As a user I want to see description of the page
 
-- This user story is developed on branch `12-description`.
+- This user story is developed on branch `description`.
 - This branch is merged to `master` branch after completion.
 
 ### html
@@ -87,13 +88,13 @@
 
 - add id `summary-info` to both `section`
 - add class `fascinating-words` to `p`
-- make the font family `fantasy`
+- make the font family `courier new`
 
 ## 5. Image
 
 ### As a user I want to see footer the page
 
-- This user story is developed on branch `13-image`.
+- This user story is developed on branch `image`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -110,7 +111,7 @@
 
 ### As a user I want to see more links the page
 
-- This user story is developed on branch `14-download PDF`.
+- This user story is developed on branch `pdf`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -119,7 +120,7 @@
 
 ### css
 
-- add id `btn` to `button`
+- add class `btn` to `button`
 - add `background`
 - add `border-radius`
 - add `box-shadow`
@@ -128,8 +129,8 @@
 
 ### As a user I want to see social media links to contact the website owner
 
-- This user story is developed on branch `15-socialMedia`.
-- This branch is merged to `master` branch after completion.
+- This user story is developed on branch `socialMedia`.
+- This branch is merged to `main` branch after completion.
 
 ### html
 
@@ -139,4 +140,5 @@
 
 ### css
 
-- add class `top-divider` and `spaced-items` to `footer` Contraer
+- add class `top-divider` and `spaced-items` to `footer`
+- add display, position
