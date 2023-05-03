@@ -1,55 +1,149 @@
-# Project Name
-
-<!-- describe your project -->
+# All-about-trees
 
 ---
 
-## Setup
+## WIREFRAME
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+![wireframe](../img/design_about_trees.png)
 
 ---
 
-<!-- copy this section once for each must-have user story -->
+## 0.Setup
 
-## user story
+- create a new repo form the template `template-html-css`
+- add collaborators
+- turn on github pages and give them `write` access
+- protect `main` branch
 
-<!-- each issue created from this section will have the `for: user story` label -->
+---
 
-> "as a ... i can ... so that ..."
+## 1. Title
 
-<!-- write any extra notes or description -->
+### As a user I want to see the title of the page
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+- This user story is developed on branch
+  `9 branches`.
+- This branch is merged to `main` branch after completion.
 
-### Logic: user story
+### html
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add `header` tag
+- add `h1` for the page title
 
-### Interface: user story
+### css
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- add class`centered-item` to the `header`
+- make the display `flex` and add `padding`
 
-### Interaction: user story
+## 2. Logos
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### As a user I want to see logos of the page
 
-### Documentation: user story
+- This user story is developed on branch `10-logos`.
+- This branch is merged to `master` branch after completion.
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### html
+
+- add two `img`
+
+### css
+
+- add class `ouncy-img` to both `img`
+- add `width` and `height`
+- add `keyframes`
+- add `hover`
+
+## 3. Navigation links
+
+### As a user I want to see navigation links
+
+- This user story is developed on branch `11-navLinks`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add two `nav`
+- add a `div` parent
+- add `a`
+
+### css
+
+- add class `bottom-divider` to both `nav`
+- add `border`
+- add class `spaced-items` to the parent `div`
+- make display `flex` and add `padding`
+
+## 4. Description
+
+### As a user I want to see description of the page
+
+- This user story is developed on branch `12-description`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `section`
+- add `p`
+
+### css
+
+- add id `summary-info` to both `section`
+- add class `fascinating-words` to `p`
+- make the font family `fantasy`
+
+## 5. Extra link
+
+### As a user I want to see extra link one the page
+
+- This user story is developed on branch `13-extraLink`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `aside`
+- add `p`
+- add `a`
+
+### css
+
+- add id `extra-info` and class `aside-info` to both `aside`
+- add `width`, `padding`, `margin`, `box-shadow`, `float`
+- add class `aside-text` to `p`
+- change font family to `monospace`
+
+## 6. More links
+
+### As a user I want to see more links the page
+
+- This user story is developed on branch `14-moreLinks`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `article`
+- add `p`
+- add `ul`
+- add `li`
+- add `a`
+
+### css
+
+- add id `main-info"` to `article`
+- add class `interesting-things` to `ul`
+- make list style type `square`
+
+## 7. Social media links
+
+### As a user I want to see social media links to contact the website owner
+
+- This user story is developed on branch `15-socialMedia`.
+- This branch is merged to `master` branch after completion.
+
+### html
+
+- add `footer`
+- add `a`
+
+### css
+
+- add class `top-divider` and `spaced-items` to `footer`
