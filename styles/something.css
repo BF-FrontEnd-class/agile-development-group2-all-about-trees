@@ -89,5 +89,10 @@ h1 {
 
 /* Description */
 .fascinating-words {
-  font-family: fantasy;
+  position: absolute;
+  top: 20rem;
+  right: 15rem;
+  width: 30rem;
+  line-height: 2rem;
+  color: rgb(177, 255, 181);
 }
