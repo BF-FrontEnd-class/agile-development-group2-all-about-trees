@@ -58,6 +58,7 @@ h1 {
 
 .btn {
   position: relative;
+  top: -2.5rem;
   left: 55rem;
   width: 20rem;
   height: 2rem;
