@@ -2,6 +2,28 @@ body {
   background-color: white;
 }
 
-.fascinating-words {
-  font-family: fantasy;
+.btn {
+  position: relative;
+  top: 8rem;
+  left: 55rem;
+  width: 20rem;
+  height: 2rem;
+  background-color: rgb(237, 200, 11);
+  color: black;
+  font-size: 1.2rem;
+  border-radius: 15%;
+  box-shadow: rgba(0, 0, 0, 0.35) 1px 5px 15px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(213, 179, 5);
+}
+
+.centered-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
