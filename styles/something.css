@@ -2,29 +2,15 @@ body {
   background-color: white;
 }
 
-/* footer */
-.btn {
-  position: relative;
-  top: 8rem;
-  left: 55rem;
-  width: 20rem;
-  height: 2rem;
-  background-color: rgb(237, 200, 11);
-  color: black;
-  font-size: 1.2rem;
-  border-radius: 15%;
-  box-shadow: rgba(0, 0, 0, 0.35) 1px 5px 15px;
-  cursor: pointer;
+.bottom-divider {
+  border-style: none none solid none;
 }
 
-.btn:hover {
-  background-color: rgb(213, 179, 5);
-}
-
-.top-divider {
-  border-style: solid none none none;
-}
-
-.fascinating-words {
-  font-family: fantasy;
+.spaced-items {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+  justify-content: space-around;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
