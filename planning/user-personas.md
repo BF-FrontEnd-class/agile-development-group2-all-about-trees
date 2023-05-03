@@ -1,28 +1,52 @@
 # User Personas
 
+## Tree lover
+
 <!-- some introduction -->
 
-## ![img](../img/angelo.jpeg)
+![img](../img/angeloo.jpeg)
+
+<!-- a persona -->
+
+## Role
+
+- **Bio**: Angelo is 27 years old, he is from Belgium and he loves to protect
+  the nature.
+- **Quotes**: Take me to the world of the nature and let me discover all about
+  trees"
+- **Needs/Goals**: Angelo loves trees that s why he visits ,any websites to find
+  a lot of information about trees.
+
+- **Frustrations**: Angello loves trees but his problem is that other website
+  are more complex for him to understand but our website is simple to
+  understand.
+
+- **Scenario 1**: Angelo loves nature and he visits alot of websites because he
+  likes to know more information about trees.
+
+## Teacher
+
+<!-- some introduction -->
+
+![img](../img/educator.jpeg)
 
 <!-- a persona -->
 
 ## Their Role
 
-- **Bio**: My name is Angelo, I am 27 years old, I am from Belgium and I love
-  photography of nature.
-- **Quotes**: Take me to the world of the nature and let me discover all about
-  trees"
-- **Needs/Goals**:
+- **Bio**: Peter is 50 years old teacher , he is from Germany and he teaches
+  Biology at university of Munich.
+- **Needs/Goals**: Peter loves Biology and he is looking for information about
+  trees for his students.
 
-1. Throuh photography I want to make society aware the importance of nature in
-   our life and how incomplete we are without nature.
-2. To improve the knowledge I have about trees.
+- **Frustrations**: Peter loves to look for information about trees and nature
+  but his problem is that other websites have many other information that do not
+  collerate with the subject. Our website is easy to understand and has all the
+  study material required by Peter.
 
-- **Frustrations**: I hate the people who destroys the nature for just to become
-  modern society.
-
-- **Scenario 1**: One time I was looking for information on this website all
-  about trees because I wanted to capture the beauty of nature in my camera.
+- **Scenario 1**: Peter is a teacher and loves Biology and nature he visits alot
+  of websites because he likes to know more information about trees for his
+  students.
 
 ---
 
