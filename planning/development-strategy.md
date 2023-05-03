@@ -21,8 +21,7 @@
 
 ### As a user I want to see the title of the page
 
-- This user story is developed on branch
-  `9 branches`.
+- This user story is developed on branch `09-title`.
 - This branch is merged to `main` branch after completion.
 
 ### html
@@ -35,40 +34,39 @@
 - add class`centered-item` to the `header`
 - make the display `flex` and add `padding`
 
-## 2. Logos
+## 2. Logo
 
 ### As a user I want to see logos of the page
 
-- This user story is developed on branch `10-logos`.
-- This branch is merged to `master` branch after completion.
+- This user story is developed on branch `10-logo`.
+- This branch is merged to `main` branch after completion.
 
 ### html
 
-- add two `img`
+- add `img`
 
 ### css
 
-- add class `ouncy-img` to both `img`
+- add class `logo-img` to `img`
+- make `display`flex and add `padding`
 - add `width` and `height`
-- add `keyframes`
-- add `hover`
 
 ## 3. Navigation links
 
 ### As a user I want to see navigation links
 
 - This user story is developed on branch `11-navLinks`.
-- This branch is merged to `master` branch after completion.
+- This branch is merged to `main` branch after completion.
 
 ### html
 
-- add two `nav`
+- add `nav`
 - add a `div` parent
 - add `a`
 
 ### css
 
-- add class `bottom-divider` to both `nav`
+- add class `bottom-divider` to `nav`
 - add `border`
 - add class `spaced-items` to the parent `div`
 - make display `flex` and add `padding`
@@ -91,46 +89,40 @@
 - add class `fascinating-words` to `p`
 - make the font family `fantasy`
 
-## 5. Extra link
+## 5. Image
 
-### As a user I want to see extra link one the page
+### As a user I want to see footer the page
 
-- This user story is developed on branch `13-extraLink`.
-- This branch is merged to `master` branch after completion.
+- This user story is developed on branch `13-image`.
+- This branch is merged to `main` branch after completion.
 
 ### html
 
-- add `aside`
-- add `p`
-- add `a`
+- add `img`
 
 ### css
 
-- add id `extra-info` and class `aside-info` to both `aside`
-- add `width`, `padding`, `margin`, `box-shadow`, `float`
-- add class `aside-text` to `p`
-- change font family to `monospace`
+- add and class `tree-img` to both `img`
+- add `display`
+- add `width`, `padding`, `margin`, `box-shadow`, `border-radius`
 
-## 6. More links
+## 6. Download PDF
 
 ### As a user I want to see more links the page
 
-- This user story is developed on branch `14-moreLinks`.
-- This branch is merged to `master` branch after completion.
+- This user story is developed on branch `14-download PDF`.
+- This branch is merged to `main` branch after completion.
 
 ### html
 
-- add `article`
-- add `p`
-- add `ul`
-- add `li`
-- add `a`
+- add `button`
 
 ### css
 
-- add id `main-info"` to `article`
-- add class `interesting-things` to `ul`
-- make list style type `square`
+- add id `btn` to `button`
+- add `background`
+- add `border-radius`
+- add `box-shadow`
 
 ## 7. Social media links
 
@@ -142,8 +134,9 @@
 ### html
 
 - add `footer`
+- add `p`
 - add `a`
 
 ### css
 
-- add class `top-divider` and `spaced-items` to `footer`
+- add class `top-divider` and `spaced-items` to `footer` Contraer
